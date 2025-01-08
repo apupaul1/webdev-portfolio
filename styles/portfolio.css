@@ -175,6 +175,12 @@ main section {
     gap: 24px;
 }
 
+.experience-title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+}
+
 .experience-sub-title {
     font-size: 20px;
     font-weight: 600;
@@ -187,6 +193,12 @@ main section {
 
 .resume-download-cv {
     margin-top: 45px;
+}
+
+.resume-column-title{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
 }
 
 /* Footer Styles */
